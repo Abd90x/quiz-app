@@ -1,0 +1,282 @@
+[
+  {
+    "title": "Why We Use <br> Element",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Create Horizontal Line",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "Is <img> Element Has Attribute href",
+    "answer_1": "Yes",
+    "answer_2": "No Its For Anchor Tag <a>",
+    "answer_3": "All Elements Has This Attribute",
+    "answer_4": "Answer 1 And 3 Is Right",
+    "right_answer": "No Its For Anchor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold",
+    "answer_1": "Putting It Inside <b> Tag",
+    "answer_2": "Putting It Inside <strong> Tag",
+    "answer_3": "Customizing It With Font-Weight Property In CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "What Is The Right Hierarchy For Creating Part Of Page",
+    "answer_1": "<h2> Then <p> Then <h1> Then <p> Then <h3> Then <p> Then <img>",
+    "answer_2": "<h1> Then <p> Then <h3> Then <p> Then <h2> Then <p> Then <img>",
+    "answer_3": "<h2> Then <p> Then <h3> Then <p> Then <h1> Then <p> Then <img>",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "All Solutions Is Wrong"
+  },
+  {
+    "title": "How Can We Include External Page Inside Our HTML Page",
+    "answer_1": "By Using Include in HTML",
+    "answer_2": "By Using Load In HTML",
+    "answer_3": "By Using iFrame Tag",
+    "answer_4": "All Solutions Is Wrong",
+    "right_answer": "By Using iFrame Tag"
+  },
+  {
+    "title": "What Is The Tag That Not Exists in HTML",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All Tags Is Exists in HTML",
+    "right_answer": "All Tags Is Exists in HTML"
+  },
+  {
+    "title": "How We Specify Document Type Of HTML5 Page",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  },
+  {
+    "title": "What Does CSS Stand For?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Style Sheets",
+    "answer_3": "Coded Style Sheets",
+    "answer_4": "Creative Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which Property Is Used to Change the Text Color in CSS?",
+    "answer_1": "text-color",
+    "answer_2": "color",
+    "answer_3": "font-color",
+    "answer_4": "text-style",
+    "right_answer": "color"
+  },
+  {
+    "title": "How Do You Select an Element by Its ID in CSS?",
+    "answer_1": "#elementID",
+    "answer_2": ".elementID",
+    "answer_3": "*elementID",
+    "answer_4": "&elementID",
+    "right_answer": "#elementID"
+  },
+  {
+    "title": "Which Property Is Used to Set the Background Color in CSS?",
+    "answer_1": "background-color",
+    "answer_2": "bg-color",
+    "answer_3": "color-background",
+    "answer_4": "background",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "How Do You Center an Element Horizontally in CSS?",
+    "answer_1": "text-align: center",
+    "answer_2": "align: center",
+    "answer_3": "horizontal-align: center",
+    "answer_4": "center: horizontal",
+    "right_answer": "text-align: center"
+  },
+  {
+    "title": "Which CSS Property Controls the Spacing Between Lines of Text?",
+    "answer_1": "line-height",
+    "answer_2": "letter-spacing",
+    "answer_3": "word-spacing",
+    "answer_4": "line-spacing",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "How Do You Hide an Element in CSS?",
+    "answer_1": "display: none",
+    "answer_2": "visibility: hidden",
+    "answer_3": "hidden: true",
+    "answer_4": "display: hidden",
+    "right_answer": "display: none"
+  },
+  {
+    "title": "What Does the CSS Property 'float' Do?",
+    "answer_1": "It creates a floating effect on the element",
+    "answer_2": "It sets the text to float within the element",
+    "answer_3": "It positions the element to the left or right within its container",
+    "answer_4": "It hides the element from view",
+    "right_answer": "It positions the element to the left or right within its container"
+  },
+  {
+    "title": "What Is the CSS Box Model?",
+    "answer_1": "A way to style boxes in CSS",
+    "answer_2": "A model for organizing HTML elements",
+    "answer_3": "A design pattern for layouts",
+    "answer_4": "A representation of how elements are rendered in a web page",
+    "right_answer": "A representation of how elements are rendered in a web page"
+  },
+  {
+    "title": "Which CSS Property Is Used to Add Shadows to Elements?",
+    "answer_1": "box-shadow",
+    "answer_2": "shadow",
+    "answer_3": "text-shadow",
+    "answer_4": "element-shadow",
+    "right_answer": "box-shadow"
+  },
+  {
+    "title": "What Does 'JS' Stand For?",
+    "answer_1": "Java Server",
+    "answer_2": "JavaScript",
+    "answer_3": "Java Scripting",
+    "answer_4": "Just Sayin'",
+    "right_answer": "JavaScript"
+  },
+  {
+    "title": "Which Keyword Declares a Variable in JavaScript?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "All Of Them",
+    "right_answer": "All Of Them"
+  },
+  {
+    "title": "What Is the Purpose of 'parseInt()' Function in JavaScript?",
+    "answer_1": "To convert a string to an integer",
+    "answer_2": "To round a number to the nearest integer",
+    "answer_3": "To find the square root of a number",
+    "answer_4": "To concatenate two strings",
+    "right_answer": "To convert a string to an integer"
+  },
+  {
+    "title": "How Do You Declare a Function in JavaScript?",
+    "answer_1": "function myFunction()",
+    "answer_2": "func myFunction()",
+    "answer_3": "function:myFunction()",
+    "answer_4": "func:myFunction()",
+    "right_answer": "function myFunction()"
+  },
+  {
+    "title": "Which Operator Is Used to Compare the Equality of Two Values in JavaScript?",
+    "answer_1": "==",
+    "answer_2": "===",
+    "answer_3": "!=",
+    "answer_4": "!==",
+    "right_answer": "=="
+  },
+  {
+    "title": "What Is the 'DOM' in JavaScript?",
+    "answer_1": "Document Object Model",
+    "answer_2": "Data Object Model",
+    "answer_3": "Dynamic Object Model",
+    "answer_4": "Document Orientation Model",
+    "right_answer": "Document Object Model"
+  },
+  {
+    "title": "What Is the Purpose of 'setTimeout()' Function in JavaScript?",
+    "answer_1": "To execute a function after a specified delay",
+    "answer_2": "To repeat a function at regular intervals",
+    "answer_3": "To clear a timeout",
+    "answer_4": "To pause the execution of a function",
+    "right_answer": "To execute a function after a specified delay"
+  },
+  {
+    "title": "How Do You Access the First Element of an Array in JavaScript?",
+    "answer_1": "array[0]",
+    "answer_2": "array.first()",
+    "answer_3": "array.getElement(0)",
+    "answer_4": "array.front()",
+    "right_answer": "array[0]"
+  },
+  {
+    "title": "What Is an 'Arrow Function' in JavaScript?",
+    "answer_1": "A concise way to write anonymous functions",
+    "answer_2": "A function that always returns true",
+    "answer_3": "A function that accepts only numbers",
+    "answer_4": "A function that loops through an array",
+    "right_answer": "A concise way to write anonymous functions"
+  },
+  {
+    "title": "Which Method Is Used to Add an Element to the End of an Array in JavaScript?",
+    "answer_1": "push()",
+    "answer_2": "append()",
+    "answer_3": "addToEnd()",
+    "answer_4": "concat()",
+    "right_answer": "push()"
+  },
+  {
+    "title": "What Does 'HTML' Stand For in Web Development?",
+    "answer_1": "Hyperlink and Text Markup Language",
+    "answer_2": "Hyper Text Markup Language",
+    "answer_3": "High-Level Text Markup Language",
+    "answer_4": "Hyperlinks and Text Markup Logic",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which Language Is Used for Styling Web Pages?",
+    "answer_1": "JavaScript",
+    "answer_2": "CSS",
+    "answer_3": "HTML",
+    "answer_4": "Python",
+    "right_answer": "CSS"
+  },
+  {
+    "title": "What Is the Purpose of 'JavaScript' in Web Development?",
+    "answer_1": "To style web pages",
+    "answer_2": "To create structured content",
+    "answer_3": "To add interactivity and dynamic behavior",
+    "answer_4": "To define page layout",
+    "right_answer": "To add interactivity and dynamic behavior"
+  },
+  {
+    "title": "What Is the Standard Language for Creating Web Applications?",
+    "answer_1": "JavaScript",
+    "answer_2": "CSS",
+    "answer_3": "HTML",
+    "answer_4": "Python",
+    "right_answer": "JavaScript"
+  },
+  {
+    "title": "Which Technology Is Used for Backend Development in Web Applications?",
+    "answer_1": "Node.js",
+    "answer_2": "HTML",
+    "answer_3": "CSS",
+    "answer_4": "React",
+    "right_answer": "Node.js"
+  },
+  {
+    "title": "What Does 'CSS' Stand For in Web Development?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Style Sheets",
+    "answer_3": "Coded Style Sheets",
+    "answer_4": "Creative Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  }
+]
